@@ -1,0 +1,8 @@
+*.[oa]
+*~
+*.pyc
+*.log
+*.sql
+*.sqlite3
+pip
+venv/
